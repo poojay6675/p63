@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "weatherapp",
+    "slug": "snack-aa892726-1bbe-47ec-934d-550699bd4160",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "pooja.y.gowda"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
